@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.balandro" name="Balandro" version="2.3.8" provider-name="Balandro Team">
+<addon id="plugin.video.balandro" name="Balandro" version="2.3.9" provider-name="Balandro Team">
   <requires>
      <import addon="script.module.requests"/>
   </requires>
@@ -15,7 +15,7 @@
       <icon>icon.png</icon>
     </assets>
     <news>
-    [COLOR darkorange][B]Versión  [/COLOR][COLOR yellow]2.3.8[/COLOR][COLOR red]  Agosto 2022[/B][/COLOR]
+    [COLOR darkorange][B]Versión  [/COLOR][COLOR yellow]2.3.9[/COLOR][COLOR red]  Agosto 2022[/B][/COLOR]
 
     [COLOR goldenrod][B]Media Centers Soportados[/COLOR][COLOR plum]  20.x,  19.x,  18.x  y  17.x[/B][/COLOR]
 
